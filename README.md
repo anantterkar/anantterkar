@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Anant, a computer science and ML enthusiast</h2>
 
 <p align="left">
-  Anant: Builder of models, breaker of bugs, and seeker of signal in the noise.<br>
+  Me as described by ChatGPT: Builder of models, breaker of bugs, and seeker of signal in the noise.<br>
   I’m a data-driven explorer passionate about computer vision, image retrieval, and machine learning. Whether it’s PyTorch or TensorFlow, AutoEncoders or transformer models, I dive deep into building, debugging, and learning from every iteration.
 </p>
 
